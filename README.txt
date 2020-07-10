@@ -1,0 +1,1 @@
+Juego espirado en la famosa saga de warcraft, en este pequeño projecto muestro distinto tipos de orcos, la orda en todo su esplandor, distintos caminos de la misma raza, armas y escudos del mismo juego, tambie intente tener varias opciones para que la aventura grafica sea interactiva, es corta y simple pero supongo que cumple con la consigna asignada.
